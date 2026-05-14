@@ -69,3 +69,7 @@ nav ul li a:hover {
   color: #F5A623;
   transition: color 0.3s aese;
 }
+main ul {
+  padding: left: 20px;
+  line-height: 2;
+}
