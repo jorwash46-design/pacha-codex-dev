@@ -72,4 +72,16 @@ nav ul li a:hover {
 main ul {
   padding: left: 20px;
   line-height: 2;
+  list-style: none
+}
+header p { 
+  color:  #c8a96e;
+  font-size: 18px;
+  margin-top: 12px;
+  letter-spacing: 3px;
+}
+main ul li::before {
+  content: "\25bb";
+  color: #F5A623;
+  margin-right: 8px;
 }
