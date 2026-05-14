@@ -67,12 +67,12 @@ nav ul li a {
 }
 nav ul li a:hover {
   color: #F5A623;
-  transition: color 0.3s aese;
+  transition: color 0.3s ease;
 }
 main ul {
-  padding: left: 20px;
+  padding-left: 20px;
   line-height: 2;
-  list-style: none
+  list-style: none;
 }
 header p { 
   color:  #c8a96e;
@@ -84,4 +84,8 @@ main ul li::before {
   content: "\25bb";
   color: #F5A623;
   margin-right: 8px;
+}
+header img {
+  width: 150px;
+  margin-bottom: 20px;
 }
