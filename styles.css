@@ -4,8 +4,8 @@
   box-sizing: border-box;
 }
 body {
-  background-color: #1A1A2E;
-  color: #FFFFFF;
+  background-color: #121212;;
+  color: #f0ebe0;
   font-family: 'Raleway', sans-serif;
   font-size: 16px;
   line-height: 1.6;
@@ -18,14 +18,14 @@ h1 {
 }
 
 h2 {
-  color: #E94560;
+  color: #F5A623;
 }
 
 header {
   text-align: center;
   padding: 60px 40px;
-  background: linear-gradient(135deg, #0F3460, #1A1A2E);
-  border-bottom: 2px solid #E94560;
+  background-color: #111111;
+  border-bottom: 2px solid #c8a96e;
 }
 
 main {
@@ -41,11 +41,11 @@ section {
 footer {
   text-align: center;
   padding: 20px;
-  border-top: 2px solid #E94560;
+  border-top: 2px solid #c8a96e;
   color: #95A5A6;
 }
 nav {
-  background-color: #0F3460;
+  background-color: #1a1a1a;
   padding: 15px 40px;
   text-align: center;
 }
